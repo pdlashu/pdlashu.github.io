@@ -1,2 +1,2 @@
-# ashutoshpoudel.github.io
+# pdlashu.github.io
 Repo for my personal website. 
